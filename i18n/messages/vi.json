@@ -197,12 +197,12 @@
     "AchievementsPageContent": {
       "toast": {
         "import-success": "Nhập dữ liệu thành công.",
-        "import-invalid": "Vui lòng nhập dữ liệu hợp lệ.",
+        "import-invalid": "Nhập dữ liệu thành công.",
         "parse-fail": "Failed to parse JSON file.",
         "download-fail": "Tải xuống thất bại.",
         "download-start": "Quá trình tải xuống sẽ bắt đầu ngay thôi."
       },
-      "description": "Use the filters to help you find what achievements you're missing.",
+      "description": "Sử dụng bộ lọc để tìm kiếm thành tựu chưa hoàn thành.",
       "Completed": "Hoàn tất",
       "ImportDialog": {
         "title": "Nhập dữ ",
@@ -306,8 +306,8 @@
     "iOS": "iOS",
     "Heading": {
       "title": "Chọn phương pháp",
-      "description": "If the automatic method doesn't work for you, try doing it manually using the other tutorial. If you still need help, please visit our <link>Discord Server</link>.",
-      "description-android": "If the first method doesn't work for you, try the other one. If you still need help, please visit our <link>Discord Server</link>."
+      "description": "Nếu phương pháp tự động không hoạt động, hãy thử thực hiện thủ công theo hướng dẫn. Nếu bạn vẫn cần sự trợ giúp, hãy tham gia <link>Máy chủ Discord</link>",
+      "description-android": "Nếu cách đầu tiên không hoạt động, hãy thử những cách còn lại, Nếu bạn vẫn cần sự trợ giúp, hãy tham gia <link>Máy chủ Discord</link> của chúng tôi."
     },
 
     "PC1Tutorial": {
@@ -325,7 +325,7 @@
         "Your Convene History URL": "URL Lịch sử Triệu hồi của Bạn"
       },
       "3": {
-        "title": "Nhấn nút \"Import History\" trên Website"
+        "title": "Nhấn nút \"Import History\" trên trang này"
       },
       "Import History": "Nhập lịch sử Triệu hồi"
     },
@@ -334,7 +334,7 @@
       "invalid-url": "URL Lịch sử Triệu hồi không hợp lệ.",
       "import-success": "Đã nhập URL Lịch sử Triệu hồi thành công!",
       "found-url": "Đã tìm thấy URL! Bấm vào nút Import History để bắt đầu.",
-      "not-found-url": "Không tìm thấy URL hợp lệ trong file log.",
+      "not-found-url": "Không tìm thấy URL hợp lệ trong tệp log.",
       "Click to upload": "Nhấn để tải lên",
       "or drag and drop": "hoặc kéo và thả",
       "1": {
@@ -370,7 +370,7 @@
         "title": " Chạy Wuthering Waves và mở Convene History trong trò chơi",
         "description": "Sau đó, mở Windows PowerShell, và dán đoạn script sau vào.",
         "invalid-directory": "Hãy nhập thư mục cài đặt hợp lệ vào trước!!",
-        "Stuck? Click the “Need Help?” button": "Càn sự trợ giúp? Hãy bấm vào “Need Help?” để được giúp đỡ ngay nhé!",
+        "Stuck? Click the “Need Help?” button": "Cần sự trợ giúp? Hãy bấm vào “Need Help?” để được giúp đỡ ngay nhé!",
         "note": "Ghi chú: Đoạn script không chỉnh sửa file của bạn, nó chỉ đơn giản là trích xuất URL từ log. Bạn có thể <link>xem đoạn script ở đây</link>."
       },
       "3": {
@@ -449,10 +449,10 @@
       "invalid-url": "URL Lịch sử Triệu hồi không hợp lệ",
       "import-success": "Đã nhập URL Lịch sử Triệu hồi thành công!",
       "1": {
-        "title": "Follow our Video Tutorial",
+        "title": "Hãy làm theo Video hướng dẫn",
         "description": "Làm theo <link>video hướng dẫn này bởi yukio36</link> sau khi chạy Wuthering Waves.",
         "Video Tutorial": "Video Hướng dẫn",
-        "Android Airplane Mode Import Tutorial Video": "Video Hướng dẫn nhập chế độ Máy bay trên Android",
+        "Android Airplane Mode Import Tutorial Video": "Video Hướng dẫn nhập trong chế độ Máy bay trên Android",
         "video-tutorial-desc": "Hãy làm theo hướng dẫn này bởi <highlight>yukio36</highlight> từ <link>máy chủ Discord</link> để nhập dữ liệu trên Android cần không cần tải bất kì thứ gì.",
         "note": "Ghi chú: Cách này không hoạt động trên một số thiết bị, hãy thử những cách khác nếu nó không hoạt động."
       },
@@ -474,7 +474,7 @@
     "Report an Issue": "Báo cáo vấn đề",
 
     "SettingCloudSync": {
-      "sign-out-success": "Đăng xuất thành công!.",
+      "sign-out-success": "Đăng xuất thành công!",
       "login-to-sync": "Bạn phải đăng nhập trước khi có thể đồng bộ dữ liệu.",
       "import-to-sync": "Nhập dữ liệu vào trước để bắt đầu đồng bộ nha!",
       "data-is-in-sync": "Dữ liệu đã được đồng bộ với tài khoản Google.",
@@ -487,7 +487,7 @@
       "Log Out": "Đăng xuất",
       "Sync Data": "Đồng bộ dữ liệu",
       "Google Data": "Dữ liệu từ Google",
-      "Browser Data": "Dữ liệu từ Trình Duyệt",
+      "Browser Data": "Dữ liệu từ Trình duyệt",
       "browser-data-different": "Your local browser data is different from your Google Account data. Dữ liệu từ trình duyệt của bạn khác với dữ liệu từ Tài khoản Google",
       "browser-data-different-confirmation": "Your local data with player ID ({localId}) conflicts with your Google Account's player ID (${googleId}). Would you like to keep your browser's local data or would you like to use your Google Account data instead?"
     },
@@ -495,7 +495,7 @@
     "SignInButton": {
       "sign-out-success": "Đăng xuất thành công.",
       "Sign out": "Đăng xuất",
-      "Sign In to Google": "Đăng nhập Google"
+      "Sign In to Google": "Đăng nhập vào Google"
     },
 
     "SettingConveneHistoryUrl": {

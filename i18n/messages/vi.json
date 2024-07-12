@@ -420,40 +420,40 @@
         "Your Convene History URL": "URL Lịch sử Triệu hồi của Bạn"
       },
       "3": {
-        "title": " Bấm vào \"Import History\" trên trang này"
+        "title": "Bấm vào \"Import History\" trên trang này"
       },
       "Video Tutorial": "Video Hướng dẫn",
-      "Android Ascent Import Tutorial Video": "Android Ascent Import Tutorial Video",
-      "video-tutorial-desc": "First, read this carefully read <guide>this text guide</guide> then follow this <video>YouTube video</video> to get your data on Android. All credits goes to Mirai0009.",
-      "Import History": "Import History"
+      "Android Ascent Import Tutorial Video": "Video Hướng dẫn nhập bằng Ascent trên Android",
+      "video-tutorial-desc": "Đầu tiên, hãy đọc thật cẩn thận <guide>hướng dẫn này</guide> và thực hiện theo <video>YouTube video</video> để lấy dữ liệu của bạn trên Android. Tất cả credits thuộc về Mirai0009.",
+      "Import History": "Nhập Lịch sử Triệu hồi"
     },
 
     "Android2Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "URL Lịch sử Triệu hồi không hợp lệ",
+      "import-success": "Đã nhập URL Lịch sử Triệu hồi thành công!",
       "1": {
-        "title": "Use Termux To Get Convene History URL",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <guide>this guide by eqdamini</guide> to download and use <app>Termux</app> to get your URL."
+        "title": "Sử dụng Termux để lấy URL Lịch sử Triệu hồi",
+        "description": "Tương tự như lấy lịch sử triệu hồi trong Genshin Impact hoặc Honkai Star Rail, hãy làm theo <guide>hướng dẫn bởi eqdamini</guide> để tải và sử dụng <app>Termux</app> và lấy URL."
       },
       "2": {
         "title": "Dán URL vào đây",
         "Your Convene History URL": "URL Lịch sử Triệu hồi của bạn"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Bấm vào \"Import History\" trên trang này"
       },
-      "Import History": "Import History"
+      "Import History": "Nhập Lịch sử Triệu hồi"
     },
 
     "Android3Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "URL Lịch sử Triệu hồi không hợp lệ",
+      "import-success": "Đã nhập URL Lịch sử Triệu hồi thành công!",
       "1": {
         "title": "Follow our Video Tutorial",
-        "description": "Follow <link>this video tutorial by yukio36</link> after opening the Wuthering Waves app.",
-        "Video Tutorial": "Video Tutorial",
-        "Android Airplane Mode Import Tutorial Video": "Android Airplane Mode Import Tutorial Video",
-        "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>yukio36</highlight> from our <link>Discord Server</link> to import your data on Android without downloading anything.",
+        "description": "Làm theo <link>video hướng dẫn này bởi yukio36</link> sau khi chạy Wuthering Waves.",
+        "Video Tutorial": "Video Hướng dẫn",
+        "Android Airplane Mode Import Tutorial Video": "Video Hướng dẫn nhập chế độ Máy bay trên Android",
+        "video-tutorial-desc": "Hãy làm theo hướng dẫn này bởi <highlight>yukio36</highlight> từ <link>máy chủ Discord</link> để nhập dữ liệu trên Android cần không cần tải bất kì thứ gì.",
         "note": "Ghi chú: Cách này không hoạt động trên một số thiết bị, hãy thử những cách khác nếu nó không hoạt động."
       },
       "2": {
@@ -483,7 +483,7 @@
       "Cloud Backup": "Cloud Backup",
       "description": "Save your data using your Google Account and access your data in any device. Once logged in, just click the \"Sync Data\" button to upload or download your data into your device.",
       "Guest": "Khách",
-      "Sign In to Google": "Sign In to Google",
+      "Sign In to Google": "Đăng nhập vào Google",
       "Log Out": "Đăng xuất",
       "Sync Data": "Đồng bộ dữ liệu",
       "Google Data": "Dữ liệu từ Google",

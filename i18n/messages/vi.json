@@ -164,7 +164,7 @@
     "title": "Dashboard",
     "Greeting": {
       "AnimatedWords": {
-        "pulls": "pulls",
+        "pulls": "lượt rút",
         "pity": "pity",
         "events": "sự kiện",
         "statistics": "thống kê",
@@ -229,12 +229,12 @@
       "Recent": "Gần đây",
       "and": "và",
       "Convenes": "Triệu hồi",
-      "no-filters": "No filters selected.",
+      "no-filters": "Không có bộ lọc nào được chọn.",
       "no-records": "Không có dữ liệu được tìm thấy."
     },
     "UserPullHistoryTable": {
       "Pull History": "Lịch sử Triệu hồi",
-      "Pull Num": "Pull No.",
+      "Pull Num": "Lượt rút thứ",
       "Item": "Vật phẩm",
       "Pity": "Pity",
       "Date Received": "Ngày nhận",
@@ -314,7 +314,7 @@
       "invalid-url": "URL Lịch sử Triệu hồi không hợp lệ.",
       "import-success": "Đã nhập URL Lịch sử Triệu hồi thành công!",
       "1": {
-        "title": "Đầu tiên, chạy Wuthering Waves và mở Convene History",
+        "title": "Đầu tiên, chạy Wuthering Waves và mở Convene History trong trò chơi",
         "description": "Sau đó, mở Windows PowerShell, và dán đoạn script sau vào.",
         "History URL Script": "Script URL Lịch sử Triệu hồi",
         "Click the copy button on the right": "Bấm vào nút sao chép bên phải",
@@ -333,7 +333,7 @@
     "PC2Tutorial": {
       "invalid-url": "URL Lịch sử Triệu hồi không hợp lệ.",
       "import-success": "Đã nhập URL Lịch sử Triệu hồi thành công!",
-      "found-url": "Đã tìm thấy URL! Click the Import History button to proceed.",
+      "found-url": "Đã tìm thấy URL! Bấm vào nút Import History để bắt đầu.",
       "not-found-url": "Không tìm thấy URL hợp lệ trong file log.",
       "Click to upload": "Nhấn để tải lên",
       "or drag and drop": "hoặc kéo và thả",
@@ -348,7 +348,7 @@
         "title": "Tìm <code>debug.log</code> trong File Explorer và tải nó lên đây"
       },
       "4": {
-        "title": "Nhấn nút \"Import History\" trên Website"
+        "title": "Bấm vào \"Import History\" trên Website"
       },
       "Video Tutorial": "Video Hướng dẫn",
       "PC Import Tutorial Video": "Video Hướng dẫn nhập trên PC",
@@ -357,72 +357,72 @@
     },
 
     "PC3Tutorial": {
-      "invalid-path": "Invalid Game Path",
-      "invalid-url": "Invalid Convene History URL",
+      "invalid-path": "Đường dẫn trò chơi không hợp lệ",
+      "invalid-url": "URL Lịch sử Triệu hồi không hợp lệ",
       "import-success": "Đã nhập URL Lịch sử Triệu hồi thành công!",
       "1": {
-        "title": "Copy Your Installation Directory",
-        "description": "Find the folder that contains <code>Wuthering Waves.exe</code> and a <code>Client</code> folder.",
-        "Your installation directory": "Your installation directory",
-        "warning": "Warning: If you edited your <code>Engine.ini</code> file to disable logs, you'll have to re-enable them before opening your convene history, otherwise the script won't work."
+        "title": "Sao chép thư mục cài đặt của bạn",
+        "description": "Tìm thư mục chứa <code>Wuthering Waves.exe</code> và thư mục <code>Client</code>.",
+        "Your installation directory": "Thư mục cài đặt của bạn",
+        "warning": "Cảnh báo: Nếu Bạn edit file <code>Engine.ini</code> để vô hiệu hóa log, Bạn sẽ phải kích hoạt lại chúng trước khí mở Lịch sử Triệu hồi. Nếu không, script sẽ không hoạt động."
       },
       "2": {
-        "title": "Launch Wuthering Waves on PC and Open Your In-game Convene History",
-        "description": "Afterwards, open Windows PowerShell, and then paste the following script.",
-        "invalid-directory": "Input a valid installation directory first!",
-        "Stuck? Click the “Need Help?” button": "Stuck? Click the “Need Help?” button",
-        "note": "Note: The script does not edit your files, it simply extracts the URL from your logs. You can view the script <link>here</link>."
+        "title": " Chạy Wuthering Waves và mở Convene History trong trò chơi",
+        "description": "Sau đó, mở Windows PowerShell, và dán đoạn script sau vào.",
+        "invalid-directory": "Hãy nhập thư mục cài đặt hợp lệ vào trước!!",
+        "Stuck? Click the “Need Help?” button": "Càn sự trợ giúp? Hãy bấm vào “Need Help?” để được giúp đỡ ngay nhé!",
+        "note": "Ghi chú: Đoạn script không chỉnh sửa file của bạn, nó chỉ đơn giản là trích xuất URL từ log. Bạn có thể <link>xem đoạn script ở đây</link>."
       },
       "3": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "Dán URL vào đây",
+        "Your Convene History URL": "URL Lịch sử Triệu hồi của Bạn"
       },
       "4": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Bấm vào \"Import History\" trên trang này"
       },
-      "Video Tutorial": "Video Tutorial",
-      "PC Import Tutorial Video": "PC Import Tutorial Video",
-      "video-tutorial-desc": "Follow this step-by-step YouTube tutorial to import your data on PC. Please join our <link>Discord Server</link> to ask for any help!",
-      "Import History": "Import History"
+      "Video Tutorial": "Video Hướng dẫn",
+      "PC Import Tutorial Video": "Video Hướng dẫn nhập trên PC",
+      "video-tutorial-desc": "Hãy làm theo hướng dẫn từng bước này trên YouTube để nhập dữ liệu của bạn trên PC. Và <link>Máy chủ Discord</link> của chúng tôi để yêu cầu bất kỳ trợ giúp nào nhénhé!",
+      "Import History": "Nhập Lịch sử Triệu hồi"
     },
 
     "IOSTutorial": {
-      "invalid-json": "Invalid JSON data - make sure to copy the semicolons",
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-json": "Dữ liệu JSON không hợp lệ - đừng quên sao chép dấu chấm phẩy nha",
+      "invalid-url": "URL Lịch sử Triệu hồi không hợp lệ",
+      "import-success": "Đã nhập URL Lịch sử Triệu hồi thành công!",
       "1": {
-        "title": "Follow our Video Tutorial",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this video tutorial by Chario</video> to download and use <app>Stream - Network Debug Tool</app>.",
-        "Video Tutorial": "Video Tutorial",
-        "iOS Import Tutorial Video": "iOS Import Tutorial Video",
+        "title": "Hãy hực hiện theo Video hướng dẫn",
+        "description": "Tương tự như lấy lịch sử triệu hồi trong Genshin Impact hoặc Honkai Star Rail, hãy làm theo <video>video hướng dẫn bởi Chario</video> để tải và sử dụng <app>Stream - Network Debug Tool</app>.",
+        "Video Tutorial": "Video Hướng dẫn",
+        "iOS Import Tutorial Video": "Video Hướng dẫn nhập trên iOS",
         "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>Chario</highlight> from our <link>Discord Server</link> to import your data on PC."
       },
       "2": {
-        "title": "Paste the JSON Here"
+        "title": "Dán JSON vào đây"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Bấm vào \"Import History\" trên trang này"
       },
-      "Import History": "Import History"
+      "Import History": "Nhập Lịch sử Triệu hồi"
     },
 
     "Android1Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "URL Lịch sử Triệu hồi không hợp lệ",
+      "import-success": "Đã nhập URL Lịch sử Triệu hồi thành công!",
       "1": {
-        "title": "Use Ascent To Get Convene History URL",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this guide by Mirai0009</video> to download and use <app>Ascent v2.1.6</app> to get your URL.",
-        "note": "This method only supports Android versions 11 and above.",
-        "troubleshooting": "If it's not working properly, check the <link>troubleshooting section</link>."
+        "title": "Sử dụng Ascent để lấy URL Lịch sử Triệu hồi",
+        "description": "Tương tự như lấy lịch sử triệu hồi trong Genshin Impact hoặc Honkai Star Rail, hãy làm theo <video>hướng dẫn này của Mirai0009</video> để tải và sử dụng <app>Ascent v2.1.6</app> và lấy URL.",
+        "note": "Phương pháp này chỉ hỗ trợ phiên bản Android 11 trở lên.",
+        "troubleshooting": "Nếu nó không hoạt động, hãy kiểm tra <link>troubleshooting section</link>."
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "Dán URL vào đây",
+        "Your Convene History URL": "URL Lịch sử Triệu hồi của Bạn"
       },
       "3": {
-        "title": " Press the \"Import History\" Button on this Website"
+        "title": " Bấm vào \"Import History\" trên trang này"
       },
-      "Video Tutorial": "Video Tutorial",
+      "Video Tutorial": "Video Hướng dẫn",
       "Android Ascent Import Tutorial Video": "Android Ascent Import Tutorial Video",
       "video-tutorial-desc": "First, read this carefully read <guide>this text guide</guide> then follow this <video>YouTube video</video> to get your data on Android. All credits goes to Mirai0009.",
       "Import History": "Import History"
@@ -436,8 +436,8 @@
         "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <guide>this guide by eqdamini</guide> to download and use <app>Termux</app> to get your URL."
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "Dán URL vào đây",
+        "Your Convene History URL": "URL Lịch sử Triệu hồi của bạn"
       },
       "3": {
         "title": "Press the \"Import History\" Button on this Website"
@@ -454,30 +454,30 @@
         "Video Tutorial": "Video Tutorial",
         "Android Airplane Mode Import Tutorial Video": "Android Airplane Mode Import Tutorial Video",
         "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>yukio36</highlight> from our <link>Discord Server</link> to import your data on Android without downloading anything.",
-        "note": "Note: This may not work for every device, so try the other methods if it fails."
+        "note": "Ghi chú: Cách này không hoạt động trên một số thiết bị, hãy thử những cách khác nếu nó không hoạt động."
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "Dán URL vào đây",
+        "Your Convene History URL": "URL Lịch sử Triệu hồi của bạn"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Bấm vào \"Import History\" trên trang này"
       },
-      "Import History": "Import History"
+      "Import History": "Nhập Lịch sử Triệu hồi"
     }
   },
 
   "Settings": {
-    "title": "Settings",
-    "Google Account": "Google Account",
-    "Browser Data": "Browser Data",
-    "Report an Issue": "Report an Issue",
+    "title": "Cài đặt",
+    "Google Account": "Tài khoản Google",
+    "Browser Data": "Dữ liệu trình duyệt",
+    "Report an Issue": "Báo cáo vấn đề",
 
     "SettingCloudSync": {
-      "sign-out-success": "Signed out successfully.",
-      "login-to-sync": "You must login before being able to sync.",
-      "import-to-sync": "Import your data first to start syncing!",
-      "data-is-in-sync": "Data is in sync with your Google Account.",
+      "sign-out-success": "Đăng xuất thành công!.",
+      "login-to-sync": "Bạn phải đăng nhập trước khi có thể đồng bộ dữ liệu.",
+      "import-to-sync": "Nhập dữ liệu vào trước để bắt đầu đồng bộ nha!",
+      "data-is-in-sync": "Dữ liệu đã được đồng bộ với tài khoản Google.",
       "is-synced": "Dữ liệu đã được đồng bộ",
       "is-not-synced": "Dữ liệu CHƯA được đồng bộ",
       "Cloud Backup": "Cloud Backup",
